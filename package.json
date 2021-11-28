@@ -1,0 +1,19 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "Using the open weather API (https://openweathermap.org/api), build and test a json API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setezazian/weatherAPI.git"
+  },
+  "author": "Shirin E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setezazian/weatherAPI/issues"
+  },
+  "homepage": "https://github.com/setezazian/weatherAPI#readme"
+}
