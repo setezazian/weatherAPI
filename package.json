@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/setezazian/weatherAPI/issues"
   },
-  "homepage": "https://github.com/setezazian/weatherAPI#readme"
+  "homepage": "https://github.com/setezazian/weatherAPI#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
