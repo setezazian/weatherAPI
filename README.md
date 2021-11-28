@@ -15,3 +15,17 @@ Return a json response like:
   "low_temp": 35
 }
 ```
+
+## Initial Setup
+
+1. Create a `config` folder that contains an `index.js`  file with the API key:
+
+    ```
+    module.exports = {
+      apiKey: 'your-very-secret-api-key',
+    };
+    ```
+
+1. Run `npm install` to install dependencies.
+
+1. Start the server on `localhost:3000` using `npm start`.
